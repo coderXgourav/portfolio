@@ -12,6 +12,8 @@ I am currently working at Kyptronix LLP, located in Kolkata, West Bengal, where 
 - CSS
 - Bootstrap
 - JavaScript
+- Ajax
+- jQuery
 - PHP
 - Laravel
 - SQL
